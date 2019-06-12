@@ -1,4 +1,4 @@
-[ignore]
+[ignore]a
 .*/node_modules/.*
 .*/test/.*
 .*/scripts/.*
